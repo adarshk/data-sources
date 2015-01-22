@@ -2,7 +2,7 @@
 
 Some data sources that I have collected.
 
-**Child mortality **
+**Child mortality**
 	
 	1. http://www.childmortality.org/
 
