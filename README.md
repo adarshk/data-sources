@@ -1,6 +1,6 @@
 # Data Sources
 
-Some data sources that I have collected.
+Some data sources that I have come across.
 
 **Child mortality**
 	
