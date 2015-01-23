@@ -15,7 +15,7 @@ Some data sources that I have come across.
 	2. http://data.unicef.org/child-mortality/under-five
 	
 	FAO
-		i. http://faostat3.fao.org/home/E (Food and agriculture organization of the UN - FAO)
+		i.[Food and agriculture organization of the UN - FAO](http://faostat3.fao.org/home/E)
 		ii. http://www.fao.org/statistics/en/
 
 
@@ -29,7 +29,7 @@ Some data sources that I have come across.
 
 **Research Oriented**
 
-	1. **[Pew Research Center](http://www.pewresearch.org/)** 
+	1. [Pew Research Center](http://www.pewresearch.org/)
 	2. [Resources for the future](http://www.rff.org/)
 	3. [Federal Reserve Bank of St.Louis](http://research.stlouisfed.org/)
 	
