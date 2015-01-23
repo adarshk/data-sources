@@ -19,10 +19,28 @@ Some data sources that I have come across.
 		ii. http://www.fao.org/statistics/en/
 
 
-**World Bank** - http://data.worldbank.org/
+**US**
+	
+	1. [Bureau of Labor Statistics](http://www.bls.gov/data/)
+	2. [Department of Commerce](http://open.commerce.gov/data-sets)
+	3. [Census Bureau](https://www.census.gov/geo/maps-data/)
+	4. 
 
-**IMF** - http://www.imf.org/external/data.htm
 
-**Quandl** (Contains many sources) - https://www.quandl.com/resources/data-sources
+**Research Oriented**
 
-**Enigma**(behind login) - enigma.io
+	1. **[Pew Research Center](http://www.pewresearch.org/)** 
+	2. [Resources for the future](http://www.rff.org/)
+	3. [Federal Reserve Bank of St.Louis](http://research.stlouisfed.org/)
+	
+**Miscellaneous / Independent**
+
+	1. [FiveThirtyEight Data](https://github.com/fivethirtyeight/data)
+	
+**[World Bank](http://data.worldbank.org/)**
+
+**[International Monetary Fund](http://www.imf.org/external/data.htm)**
+
+**[Quandl](https://www.quandl.com/resources/data-sources)** (Contains many sources)
+
+**[Enigma](enigma.io)**(behind login)
