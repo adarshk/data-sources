@@ -25,6 +25,7 @@ Some data sources that I have come across.
 	2. [Department of Commerce](http://open.commerce.gov/data-sets)
 	3. [Census Bureau](https://www.census.gov/geo/maps-data/)
 	4. [tax Foundation](http://taxfoundation.org/data)
+	5. [Death Penalty Information Center](http://www.deathpenaltyinfo.org/executions-united-states)
 
 
 **Research Oriented**
@@ -53,3 +54,5 @@ Some data sources that I have come across.
 **[Quandl](https://www.quandl.com/resources/data-sources)** (Contains many sources)
 
 **[Enigma](enigma.io)**(behind login)
+
+**[Open Financial data project](http://www.ofdp.org/)**
