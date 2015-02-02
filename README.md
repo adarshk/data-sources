@@ -42,6 +42,7 @@ Some data sources that I have come across.
 **Miscellaneous / Independent**
 
 	- [FiveThirtyEight Data](https://github.com/fivethirtyeight/data)
+	- [The Guardian](http://www.theguardian.com/data)
 	- [Gallup](http://www.gallup.com/home.aspx)
 	- [Equality of Opportunity](http://www.equality-of-opportunity.org/)
 	- [WorldMapper](http://www.worldmapper.org)
