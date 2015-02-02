@@ -43,6 +43,7 @@ Some data sources that I have come across.
 
 	- [FiveThirtyEight Data](https://github.com/fivethirtyeight/data)
 	- [The Guardian](http://www.theguardian.com/data)
+	- [Pro Republica](https://projects.propublica.org/data-store/)
 	- [Gallup](http://www.gallup.com/home.aspx)
 	- [Equality of Opportunity](http://www.equality-of-opportunity.org/)
 	- [WorldMapper](http://www.worldmapper.org)
